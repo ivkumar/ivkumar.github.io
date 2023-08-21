@@ -1,15 +1,11 @@
 {
-"applinks": {
-    "apps": [ ],
-    "details": [
-        {
-            "appID": "4QMDKC8VLJ.com.swiftlee.StockAnalyzer",
-            "paths": [ "/path/to/content", "/path/to/other/*", "NOT /path/to/exclude" ]
-        },
-        {
-            "appID": "TeamID.BundleID2",
-            "paths": [ "*" ]
-        }
-    ]
-}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "M8HBL5W4VV.com.Universal-Links",
+                "paths": [ "/iOS-Universal-Links/*"]
+            }
+        ]
+    }
 }
