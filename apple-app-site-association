@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "DBVZRC66XK.Invenzo.DeepLink",
+                "appID": "DBVZRC66XK.com.invenzo.aa2zhub",
                 "paths": [ "/iOS-Universal-Links/*"]
             }
         ]
