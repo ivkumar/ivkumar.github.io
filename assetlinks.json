@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.invenzo.a2zcustomer",
+    "sha256_cert_fingerprints": ["B8:39:E9:4B:E0:4F:EF:D3:ED:A8:2E:1D:57:AC:BF:CC:CB:66:47:C5:D1:02:4F:6D:C1:5E:04:6D:38:44:52:80"] }
+}]
