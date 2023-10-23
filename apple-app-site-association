@@ -3,10 +3,6 @@
         "apps": [],
         "details": [
             {
-                "appID": "DBVZRC66XK.com.invenzo.aa2zhub",
-                "paths": [ "/my-account/*"]
-            },
-            {
                 "appID": "ZW9TNFUG42.com.a2z.aa2zhub",
                 "paths": [ "/my-account/*"]
             }
