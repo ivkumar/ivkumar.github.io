@@ -5,6 +5,10 @@
             {
                 "appID": "DBVZRC66XK.com.Universal-LinksNew",
                 "paths": [ "*"]
+            },
+            {
+                "appID": "DBVZRC66XK.com.invenzo.aa2zhub",
+                "paths": [ "*"]
             }
         ]
     }
