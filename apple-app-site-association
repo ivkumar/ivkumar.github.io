@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "ZW9TNFUG42.com.a2z.aa2zhub",
-                "paths": [ "/my-account/*"]
+                "paths": [ "*" ]
             }
         ]
     }
