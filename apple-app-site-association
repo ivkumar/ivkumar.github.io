@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "DBVZRC66XK.com.Universal-LinksNew",
-                "paths": [ "/Home/*"]
+                "paths": [ "*"]
             }
         ]
     }
