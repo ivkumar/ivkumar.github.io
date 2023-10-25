@@ -3,7 +3,11 @@
         "apps": [],
         "details": [
             {
-                "appID": "ZW9TNFUG42.Invenzo.Aa2zhub-Customer",
+                "appID": "ZW9TNFUG42.Invenzo.Aa2zhub-Customerbang",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "ZW9TNFUG42.com.a2z.aa2zhub",
                 "paths": [ "*"]
             }
         ]
