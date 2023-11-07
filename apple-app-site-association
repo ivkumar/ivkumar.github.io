@@ -3,12 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "ZW9TNFUG42.Invenzo.Aa2zhub-Customerbang",
-                "paths": [ "*"]
-            },
-            {
-                "appID": "ZW9TNFUG42.com.a2z.aa2zhub",
-                "paths": [ "*"]
+                "appID": "DBVZRC66XK.com.invenzo.milletzkart",
+                "paths": [ "/my-account/*"]
             }
         ]
     }
