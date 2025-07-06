@@ -38,7 +38,7 @@
   "Birth year": "जन्मवर्ष",
   "Male": "पुरुष",
   "Female": "महिला",
-  "Others": "इतर",
+  "Other": "इतर",
   "Select Year": "वर्ष निवडा",
   "Camera": "कॅमेरा",
   "Gallery": "गॅलरी",
@@ -105,7 +105,7 @@
   " family tree.\nAwesome ": " वंशवृक्ष.\nछान!",
   " members ": " सदस्य ",
   "Are you sure you want to logout.": "तुम्हाला खात्री आहे का की तुम्ही लॉगआउट करू इच्छिता?",
-  "MeMYFolk": "MeMYFolk",
+  "MeMyFolk": "MeMyFolk",
   "Enter your Phone Number": "आपला फोन नंबर प्रविष्ट करा",
   "Enter your E-mail": "आपला ई-मेल प्रविष्ट करा",
   "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.": "आम्ही तुम्हाला SMS किंवा WhatsApp द्वारे चार-अंकी सत्यापन कोड पाठवू. कृपया तुमची ओळख सत्यापित करण्यासाठी हा कोड प्रविष्ट करा.",
@@ -203,5 +203,10 @@
   "Divorced": "घटस्फोटित",
   "Birthday, Graduation, Anniversary": "वाढदिवस, पदवी, वर्धापनदिन",
   "Born at Apollo Hospital in Bangalore": "बंगळुरूमधील अपोलो हॉस्पिटलमध्ये जन्मलेले",
-  "If there are mistakes in English words in our app, please let us know via email at": "जर आमच्या ॲपमधील मराठी शब्दांमध्ये काही चुका असतील तर, कृपया आम्हाला ईमेलद्वारे कळवा."
+  "If there are mistakes in English words in our app, please let us know via email at": "जर आमच्या ॲपमधील मराठी शब्दांमध्ये काही चुका असतील तर, कृपया आम्हाला ईमेलद्वारे कळवा.",
+  "No data found": "डेटा सापडला नाही",
+  "Add to Story": "स्टोरीमध्ये जोडा",
+  "Are you sure you want to delete your account? This action cannot be undone.": "तुम्हाला खात्री आहे की तुम्ही तुमचे खाते हटवू इच्छिता? ही क्रिया पूर्ववत करता येणार नाही.",
+  "Please note that deleting your account will permanently erase all your data.": "कृपया लक्षात घ्या की तुमचे खाते हटवल्यास तुमचा सर्व डेटा कायमस्वरूपी हटवला जाईल.",
+  "I understand and want to delete my account.": "मला समजले आहे आणि मला माझे खाते हटवायचे आहे."
 }

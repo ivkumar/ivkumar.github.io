@@ -38,7 +38,7 @@
   "Birth year": "जन्म वर्ष",
   "Male": "पुरुष",
   "Female": "महिला",
-  "Others": "अन्य",
+  "Other": "अन्य",
   "Select Year": "वर्ष चुनें",
   "Camera": "कैमरा",
   "Gallery": "गैलरी",
@@ -105,7 +105,7 @@
   "family tree.\nAwesome":"वंशवृक्ष।\nशानदार!",
   "members":"सदस्य",
   "Are you sure you want to logout.":"क्या आप वाकई लॉगआउट करना चाहते हैं?",
-  "MeMYFolk":"MeMYFolk",
+  "MeMyFolk":"MeMyFolk",
   "Enter your Phone Number":"अपना फ़ोन नंबर दर्ज करें",
   "Enter your E-mail":"अपना ई-मेल दर्ज करें",
   "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.":"हम आपको SMS या WhatsApp के माध्यम से चार अंकों का सत्यापन कोड भेजेंगे। कृपया अपनी पहचान सत्यापित करने के लिए इस कोड को दर्ज करें।",
@@ -274,5 +274,10 @@
   "Birthday, Graduation, Anniversary": "जन्मदिन, स्नातक, वर्षगाँठ",
   "Born at Apollo Hospital in Bangalore": "बैंगलोर के अपोलो अस्पताल में जन्मे",
   "By signing up, you agree to our Privacy Policy and Terms and Conditions": "साइन अप करके, आप हमारी गोपनीयता नीति और नियम एवं शर्तों से सहमत होते हैं।",
-  "If there are mistakes in English words in our app, please let us know via email at": "यदि हमारे ऐप में हिंदी शब्दों में कोई त्रुटियाँ हैं, तो कृपया हमें ईमेल के माध्यम से बताएं।"
+  "If there are mistakes in English words in our app, please let us know via email at": "यदि हमारे ऐप में हिंदी शब्दों में कोई त्रुटियाँ हैं, तो कृपया हमें ईमेल के माध्यम से बताएं।",
+  "No data found": "कोई डेटा नहीं मिला",
+  "Add to Story": "स्टोरी में जोड़ें",
+  "Are you sure you want to delete your account? This action cannot be undone.": "क्या आप वाकई अपना अकाउंट डिलीट करना चाहते हैं? इस क्रिया को पूर्ववत नहीं किया जा सकता।",
+  "Please note that deleting your account will permanently erase all your data.": "कृपया ध्यान दें कि अकाउंट डिलीट करने से आपका सारा डेटा स्थायी रूप से मिट जाएगा।",
+  "I understand and want to delete my account.": "मैं समझता/समझती हूँ और अपना अकाउंट डिलीट करना चाहता/चाहती हूँ।"
 }

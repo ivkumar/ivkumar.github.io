@@ -38,7 +38,7 @@
   "Birth year": "ਜਨਮ ਸਾਲ",
   "Male": "ਪੁਰਸ਼",
   "Female": "ਇਸਤਰੀ",
-  "Others": "ਹੋਰ",
+  "Other": "ਹੋਰ",
   "Select Year": "ਸਾਲ ਚੁਣੋ",
   "Camera": "ਕੈਮਰਾ",
   "Gallery": "ਗੈਲਰੀ",
@@ -105,7 +105,7 @@
   "family tree.\nAwesome":"ਪਰਿਵਾਰਕ ਦਰੱਖਤ।\nਸ਼ਾਨਦਾਰ!",
   "members":"ਸਦੱਸ",
   "Are you sure you want to logout.":"ਕੀ ਤੁਹਾਨੂੰ ਪੱਕਾ ਹੈ ਕਿ ਤੁਸੀਂ ਲਾਗ ਆਊਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
-  "MeMYFolk":"MeMYFolk",
+  "MeMyFolk":"MeMyFolk",
   "Enter your Phone Number":"ਆਪਣਾ ਫੋਨ ਨੰਬਰ ਦਰਜ ਕਰੋ",
   "Enter your E-mail":"ਆਪਣਾ ਈ-ਮੇਲ ਦਰਜ ਕਰੋ",
   "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.":"ਅਸੀਂ ਤੁਹਾਨੂੰ SMS ਜਾਂ WhatsApp ਰਾਹੀਂ ਚਾਰ ਅੰਕਾਂ ਵਾਲਾ ਸਤਿਆਪਨ ਕੋਡ ਭੇਜਾਂਗੇ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਇਸ ਕੋਡ ਨੂੰ ਦਰਜ ਕਰੋ।",
@@ -274,6 +274,11 @@
   "Birthday, Graduation, Anniversary": "ਜਨਮਦਿਨ, ਗ੍ਰੈਜੂਏਸ਼ਨ, ਸਾਲਗਿਰਹ",
   "Born at Apollo Hospital in Bangalore": "ਬੰਗਲੌਰ ਦੇ ਅਪੋਲੋ ਹਸਪਤਾਲ ਵਿੱਚ ਪੈਦਾ ਹੋਇਆ",
   "By signing up, you agree to our Privacy Policy and Terms and Conditions": "ਸਾਈਨ ਅਪ ਕਰਕੇ, ਤੁਸੀਂ ਸਾਡੀ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਅਤੇ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ ਨਾਲ ਸਹਿਮਤ ਹੋ ਜਾਂਦੇ ਹੋ।",
-  "If there are mistakes in English words in our app, please let us know via email at": "ਜੇਕਰ ਸਾਡੇ ਐਪ ਵਿੱਚ ਪੰਜਾਬੀ ਸ਼ਬਦਾਂ ਵਿੱਚ ਕੋਈ ਗਲਤੀਆਂ ਹਨ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਈਮੇਲ ਰਾਹੀਂ ਦੱਸੋ।"
+  "If there are mistakes in English words in our app, please let us know via email at": "ਜੇਕਰ ਸਾਡੇ ਐਪ ਵਿੱਚ ਪੰਜਾਬੀ ਸ਼ਬਦਾਂ ਵਿੱਚ ਕੋਈ ਗਲਤੀਆਂ ਹਨ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਈਮੇਲ ਰਾਹੀਂ ਦੱਸੋ।",
+  "No data found": "ਕੋਈ ਡੇਟਾ ਨਹੀਂ ਮਿਲਿਆ",
+  "Add to Story": "ਸਟੋਰੀ ਵਿੱਚ ਜੋੜੋ",
+  "Are you sure you want to delete your account? This action cannot be undone.": "ਕੀ ਤੁਸੀਂ ਨਿਸ਼ਚਤ ਤੌਰ 'ਤੇ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।",
+  "Please note that deleting your account will permanently erase all your data.": "ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਦਿਓ ਕਿ ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਮਿਟਾਉਣ ਨਾਲ ਤੁਹਾਡਾ ਸਾਰਾ ਡੇਟਾ ਸਥਾਈ ਰੂਪ ਨਾਲ ਮਿਟ ਜਾਵੇਗਾ।",
+  "I understand and want to delete my account.": "ਮੈਂ ਸਮਝਦਾ ਹਾਂ ਅਤੇ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦਾ ਹਾਂ।"
 
 }

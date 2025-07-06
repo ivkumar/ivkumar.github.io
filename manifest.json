@@ -1,6 +1,6 @@
 {
-    "name": "memyfolks",
-    "short_name": "memyfolks",
+    "name": "MeMyFolk",
+    "short_name": "MeMyFolk",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

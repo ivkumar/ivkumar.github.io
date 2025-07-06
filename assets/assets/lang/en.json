@@ -38,7 +38,7 @@
   "Birth year" : "Birth year",
   "Male":"Male",
   "Female":"Female",
-  "Others":"Others",
+  "Other":"Other",
   "Select Year":"Select Year",
   "Camera":"Camera",
   "Gallery":"Gallery",
@@ -101,7 +101,7 @@
   " family tree.\nAwesome ":" family tree.\nAwesome! ",
   " members ":" members ",
   "Are you sure you want to logout.":"Are you sure you want to logout.",
-  "MeMYFolk":"MeMYFolk",
+  "MeMyFolk":"MeMyFolk",
   "Enter your Phone Number":"Enter your Phone Number",
   "Enter your E-mail":"Enter your E-mail",
   "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.":"We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.",
@@ -267,6 +267,11 @@
   "RESEND":"RESEND",
   "Adopted":"Adopted",
   "Divorced":"Divorced",
-  "If there are mistakes in English words in our app, please let us know via email at": "If there are mistakes in English words in our app, please let us know via email at"
+  "If there are mistakes in English words in our app, please let us know via email at": "If there are mistakes in English words in our app, please let us know via email at",
+  "No data found": "No data found",
+  "Add to Story": "Add to Story",
+  "Are you sure you want to delete your account? This action cannot be undone.": "Are you sure you want to delete your account? This action cannot be undone.",
+  "Please note that deleting your account will permanently erase all your data.": "Please note that deleting your account will permanently erase all your data.",
+  "I understand and want to delete my account.": "I understand and want to delete my account."
   
 }

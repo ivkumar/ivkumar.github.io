@@ -4,7 +4,6 @@
   "Terms & Conditions": "শর্তাবলী",
   "Feedback": "প্রতিক্রিয়া",
   "Language": "ভাষা",
-  "Logout": "লগ আউট",
   "Delete Account": "অ্যাকাউন্ট মুছুন",
   "Stories": "গল্প",
   "Bubbles": "বুদবুদ",
@@ -38,7 +37,7 @@
   "Birth year": "জন্ম বছর",
   "Male": "পুরুষ",
   "Female": "মহিলা",
-  "Others": "অন্যান্য",
+  "Other": "অন্যান্য",
   "Select Year": "বছর নির্বাচন করুন",
   "Camera": "ক্যামেরা",
   "Gallery": "গ্যালারি",
@@ -179,7 +178,12 @@
   "Adopted": "গ্রহণ করা",
   "Divorced": "তালাকপ্রাপ্ত",
   "By signing up, you agree to our Privacy Policy and Terms and Conditions": "সাইন আপ করার মাধ্যমে, আপনি আমাদের গোপনীয়তা নীতি এবং সর্ত ও শর্তাবলীতে সম্মত হন।",
-  "If there are mistakes in English words in our app, please let us know via email at": "আমাদের অ্যাপে বাংলা শব্দে কোনো ভুল থাকলে, অনুগ্রহ করে আমাদের ইমেইলের মাধ্যমে জানান।"
+  "If there are mistakes in English words in our app, please let us know via email at": "আমাদের অ্যাপে বাংলা শব্দে কোনো ভুল থাকলে, অনুগ্রহ করে আমাদের ইমেইলের মাধ্যমে জানান।",
+  "No data found": "কোন ডেটা পাওয়া যায়নি",
+  "Add to Story": "স্টোরিতে যোগ করুন",
+  "Are you sure you want to delete your account? This action cannot be undone.": "আপনি কি নিশ্চিত যে আপনি আপনার অ্যাকাউন্ট মুছে ফেলতে চান? এই ক্রিয়াটি পূর্বাবস্থায় ফেরানো যাবে না।",
+  "Please note that deleting your account will permanently erase all your data.": "দয়া করে মনে রাখবেন যে অ্যাকাউন্ট মুছে ফেললে আপনার সমস্ত ডেটা স্থায়ীভাবে মুছে যাবে।",
+  "I understand and want to delete my account.": "আমি বুঝতে পেরেছি এবং আমার অ্যাকাউন্ট মুছে ফেলতে চাই।"
 
 }
 

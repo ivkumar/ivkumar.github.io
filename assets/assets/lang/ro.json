@@ -38,7 +38,7 @@
     "Birth year": "Anul nașterii",
     "Male": "Bărbat",
     "Female": "Femeie",
-    "Others": "Altele",
+    "Other": "Altele",
     "Select Year": "Selectează anul",
     "Camera": "Cameră",
     "Gallery": "Galerie",
@@ -101,7 +101,7 @@
     " family tree.\nAwesome ": " arbore genealogic.\nUimitor! ",
     " members ": " membri ",
     "Are you sure you want to logout.": "Sigur doriți să vă deconectați.",
-    "MeMYFolk": "MeMYFolk",
+    "MeMyFolk": "MeMyFolk",
     "Enter your Phone Number": "Introduceți numărul de telefon",
     "Enter your E-mail": "Introduceți adresa de email",
     "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.": "Vă vom trimite un cod de verificare de patru cifre prin SMS sau WhatsApp. Introduceți acest cod pentru a vă verifica identitatea.",
@@ -270,5 +270,10 @@
     "Birthday, Graduation, Anniversary": "Zi de naștere, Absolvire, Aniversare",
     "Born at Apollo Hospital in Bangalore": "Născut la Spitalul Apollo din Bangalore",
     "By signing up, you agree to our Privacy Policy and Terms and Conditions": "Prin înregistrare, sunteți de acord cu Politica noastră de Confidențialitate și Termenii și Condițiile.",
-    "If there are mistakes in English words in our app, please let us know via email at": "Dacă există greșeli în cuvintele românești din aplicația noastră, vă rugăm să ne anunțați prin e-mail."
+    "If there are mistakes in English words in our app, please let us know via email at": "Dacă există greșeli în cuvintele românești din aplicația noastră, vă rugăm să ne anunțați prin e-mail.",
+    "No data found": "Nu s-au găsit date",
+    "Add to Story": "Adaugă la Poveste",
+    "Are you sure you want to delete your account? This action cannot be undone.": "Sigur doriți să vă ștergeți contul? Această acțiune nu poate fi anulată.",
+    "Please note that deleting your account will permanently erase all your data.": "Rețineți că ștergerea contului vă va șterge definitiv toate datele.",
+    "I understand and want to delete my account.": "Am înțeles și doresc să-mi șterg contul."
   }

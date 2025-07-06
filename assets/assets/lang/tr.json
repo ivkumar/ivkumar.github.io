@@ -38,7 +38,7 @@
   "Birth year": "Doğum Yılı",
   "Male": "Erkek",
   "Female": "Kadın",
-  "Others": "Diğer",
+  "Other": "Diğer",
   "Select Year": "Yıl Seç",
   "Camera": "Kamera",
   "Gallery": "Galeri",
@@ -101,7 +101,7 @@
   " family tree.\nAwesome ": " aile ağacı.\nHarika! ",
   " members ": " üyeler ",
   "Are you sure you want to logout.": "Çıkış yapmak istediğinizden emin misiniz.",
-  "MeMYFolk": "MeMYFolk",
+  "MeMyFolk": "MeMyFolk",
   "Enter your Phone Number": "Telefon Numaranızı Girin",
   "Enter your E-mail": "E-postanızı Girin",
   "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.": "Size SMS veya WhatsApp üzerinden dört haneli bir doğrulama kodu göndereceğiz. Lütfen kimliğinizi doğrulamak için bu kodu girin.",
@@ -270,5 +270,10 @@
   "Birthday, Graduation, Anniversary": "Doğum Günü, Mezuniyet, Yıldönümü",
   "Born at Apollo Hospital in Bangalore": "Bangalore'daki Apollo Hastanesinde doğdu",
   "By signing up, you agree to our Privacy Policy and Terms and Conditions": "Kayıt olarak, Gizlilik Politikamızı ve Kullanım Şartlarını kabul etmiş olursunuz.",
-  "If there are mistakes in English words in our app, please let us know via email at": "Uygulamamızdaki Türkçe kelimelerde hatalar varsa, lütfen bize e-posta yoluyla bildirin."
+  "If there are mistakes in English words in our app, please let us know via email at": "Uygulamamızdaki Türkçe kelimelerde hatalar varsa, lütfen bize e-posta yoluyla bildirin.",
+  "No data found": "Veri bulunamadı",
+  "Add to Story": "Hikayeye Ekle",
+  "Are you sure you want to delete your account? This action cannot be undone.": "Hesabınızı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+  "Please note that deleting your account will permanently erase all your data.": "Lütfen hesabınızı silmenin tüm verilerinizi kalıcı olarak sileceğini unutmayın.",
+  "I understand and want to delete my account.": "Anlıyorum ve hesabımı silmek istiyorum."
 }

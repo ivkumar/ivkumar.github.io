@@ -39,7 +39,7 @@
   "Birth year" : "ଜନ୍ମବର୍ଷ",
   "Male":"ପୁରୁଷ",
   "Female":"ମହିଳା",
-  "Others":"ଅନ୍ୟ",
+  "Other":"ଅନ୍ୟ",
   "Select Year":"ବର୍ଷ ବାଛନ୍ତୁ",
   "Camera":"କେମେରା",
   "Gallery":"ଗ୍ୟାଲେରୀ",
@@ -102,7 +102,7 @@
   " family tree.\nAwesome ":" ବଂଶାବଳୀ।\nବହୁତ ଭଲ! ",
   " members ":" ସଦସ୍ୟ ",
   "Are you sure you want to logout.":"ଆପଣଙ୍କୁ ନିଶ୍ଚିତ ଲଗଆଉଟ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?",
-  "MeMYFolk":"ମୋର ପରିବାର",
+  "MeMyFolk":"ମୋର ପରିବାର",
   "Enter your Phone Number":"ଆପଣଙ୍କର ଫୋନ୍ ନମ୍ବର ପ୍ରବେଶ କରନ୍ତୁ",
   "Enter your E-mail":"ଆପଣଙ୍କର ଇମେଲ୍ ପ୍ରବେଶ କରନ୍ତୁ",
   "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.":"ଆମେ ଏସଏମଏସ୍ କିମ୍ବା ହ୍ୱାଟ୍ସଆପ୍ ଦ୍ୱାରା ଆପଣଙ୍କୁ ଚାରି ଅଙ୍କର ଭେରିଫିକେଶନ୍ କୋଡ୍ ପଠାଇବୁ। ଦୟାକରି ଆପଣଙ୍କର ପରିଚୟ ପ୍ରମାଣିତ କରିବାକୁ ଏହି କୋଡ୍ ପ୍ରବେଶ କରନ୍ତୁ।",
@@ -240,5 +240,10 @@
   "Birthday, Graduation, Anniversary": "ଜନ୍ମଦିନ, ସ୍ନାତକ, ବାର୍ଷିକୀ",
   "Born at Apollo Hospital in Bangalore": "ବାଙ୍ଗାଲୋରର ଆପୋଲୋ ହୋସ୍ପିଟାଲରେ ଜନ୍ମିତ",
   "By signing up, you agree to our Privacy Policy and Terms and Conditions": "ସାଇନ୍ ଅପ୍ କରି, ଆପଣ ଆମର ଗୋପନୀୟତା ନୀତି ଏବଂ ସର୍ତ୍ତାବଳୀକୁ ସମ୍ମତି ଦେଉଛନ୍ତି |",
-  "If there are mistakes in English words in our app, please let us know via email at": "ଯଦି ଆମର ଆପ୍‌ରେ ଓଡିଆ ଶବ୍ଦରେ କିଛି ଭୁଲ୍ ଅଛି, ଦୟାକରି ଆମକୁ ଇମେଲ୍ ଦ୍ୱାରା ଜଣାନ୍ତୁ।"
+  "If there are mistakes in English words in our app, please let us know via email at": "ଯଦି ଆମର ଆପ୍‌ରେ ଓଡିଆ ଶବ୍ଦରେ କିଛି ଭୁଲ୍ ଅଛି, ଦୟାକରି ଆମକୁ ଇମେଲ୍ ଦ୍ୱାରା ଜଣାନ୍ତୁ।",
+  "No data found": "କୌଣସି ତଥ୍ୟ ମିଳିଲା ନାହିଁ",
+  "Add to Story": "ଷ୍ଟୋରୀରେ ଯୋଡ଼ନ୍ତୁ",
+  "Are you sure you want to delete your account? This action cannot be undone.": "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣଙ୍କର ଆକାଉଣ୍ଟ ଡିଲିଟ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି? ଏହି କାର୍ଯ୍ୟକୁ ପଛକୁ ଫେରାଇ ହେବ ନାହିଁ।",
+  "Please note that deleting your account will permanently erase all your data.": "ଦୟାକରି ଧ୍ୟାନ ଦିଅନ୍ତୁ ଯେ ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ଡିଲିଟ୍ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କର ସମସ୍ତ ତଥ୍ୟ ସ୍ଥାୟୀ ଭାବରେ ମିଟି ଯିବ।",
+  "I understand and want to delete my account.": "ମୁଁ ବୁଝିଛି ଏବଂ ମୋର ଆକାଉଣ୍ଟ ଡିଲିଟ୍ କରିବାକୁ ଚାହୁଁଛି।"
 }

@@ -38,7 +38,7 @@
     "Birth year": "Tahun Kelahiran",
     "Male": "Pria",
     "Female": "Wanita",
-    "Others": "Lainnya",
+    "Other": "Lainnya",
     "Select Year": "Pilih Tahun",
     "Camera": "Kamera",
     "Gallery": "Galeri",
@@ -101,7 +101,7 @@
     " family tree.\nAwesome ": " pohon keluarga.\nLuar Biasa! ",
     " members ": " anggota ",
     "Are you sure you want to logout.": "Apakah Anda yakin ingin keluar.",
-    "MeMYFolk": "MeMYFolk",
+    "MeMyFolk": "MeMyFolk",
     "Enter your Phone Number": "Masukkan Nomor Telepon Anda",
     "Enter your E-mail": "Masukkan Email Anda",
     "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.": "Kami akan mengirimkan kode verifikasi empat digit melalui SMS ATAU WhatsApp. Silakan masukkan kode ini untuk memverifikasi identitas Anda.",
@@ -270,5 +270,10 @@
     "Birthday, Graduation, Anniversary": "Ulang Tahun, Kelulusan, Hari Jadi",
     "Born at Apollo Hospital in Bangalore": "Lahir di Rumah Sakit Apollo, Bangalore",
     "By signing up, you agree to our Privacy Policy and Terms and Conditions": "Dengan mendaftar, Anda menyetujui Kebijakan Privasi dan Syarat & Ketentuan kami.",
-    "If there are mistakes in English words in our app, please let us know via email at": "Jika ada kesalahan dalam kata-kata bahasa Indonesia di aplikasi kami, harap beri tahu kami melalui email."
+    "If there are mistakes in English words in our app, please let us know via email at": "Jika ada kesalahan dalam kata-kata bahasa Indonesia di aplikasi kami, harap beri tahu kami melalui email.",
+    "No data found": "Tidak ada data ditemukan",
+    "Add to Story": "Tambahkan ke Story",
+    "Are you sure you want to delete your account? This action cannot be undone.": "Apakah Anda yakin ingin menghapus akun Anda? Tindakan ini tidak dapat dibatalkan.",
+    "Please note that deleting your account will permanently erase all your data.": "Harap diperhatikan bahwa menghapus akun akan menghapus semua data Anda secara permanen.",
+    "I understand and want to delete my account.": "Saya mengerti dan ingin menghapus akun saya."
   }

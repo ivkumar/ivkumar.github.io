@@ -38,7 +38,7 @@
   "Birth year": "Año de nacimiento",
   "Male": "Masculino",
   "Female": "Femenino",
-  "Others": "Otros",
+  "Other": "Otros",
   "Select Year": "Seleccionar año",
   "Camera": "Cámara",
   "Gallery": "Galería",
@@ -105,7 +105,7 @@
   " family tree.\nAwesome ": " árbol genealógico.\n¡Increíble! ",
   " members ": " miembros ",
   "Are you sure you want to logout.": "¿Está seguro de que desea cerrar sesión?",
-  "MeMYFolk": "MeMYFolk",
+  "MeMyFolk": "MeMyFolk",
   "Enter your Phone Number": "Ingrese su número de teléfono",
   "Enter your E-mail": "Ingrese su correo electrónico",
   "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.": "Le enviaremos un código de verificación de cuatro dígitos por SMS o WhatsApp. Por favor, ingrese este código para verificar su identidad.",
@@ -267,6 +267,11 @@
   "Adopted": "Adoptado",
   "Divorced": "Divorciado",
   "By signing up, you agree to our Privacy Policy and Terms and Conditions": "Al registrarte, aceptas nuestra Política de Privacidad y Términos y Condiciones.",
-  "If there are mistakes in English words in our app, please let us know via email at": "Si hay errores en las palabras en español de nuestra aplicación, por favor infórmanos por correo electrónico."
+  "If there are mistakes in English words in our app, please let us know via email at": "Si hay errores en las palabras en español de nuestra aplicación, por favor infórmanos por correo electrónico.",
+  "No data found": "No se encontraron datos",
+  "Add to Story": "Añadir a Historia",
+  "Are you sure you want to delete your account? This action cannot be undone.": "¿Estás seguro de que quieres eliminar tu cuenta? Esta acción no se puede deshacer.",
+  "Please note that deleting your account will permanently erase all your data.": "Ten en cuenta que eliminar tu cuenta borrará permanentemente todos tus datos.",
+  "I understand and want to delete my account.": "Entiendo y quiero eliminar mi cuenta."
 
 }

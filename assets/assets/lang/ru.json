@@ -38,7 +38,7 @@
     "Birth year": "Год рождения",
     "Male": "Мужчина",
     "Female": "Женщина",
-    "Others": "Другое",
+    "Other": "Другое",
     "Select Year": "Выберите год",
     "Camera": "Камера",
     "Gallery": "Галерея",
@@ -101,7 +101,7 @@
     " family tree.\nAwesome ": " генеалогическое древо.\nПотрясающе! ",
     " members ": " участники ",
     "Are you sure you want to logout.": "Вы уверены, что хотите выйти.",
-    "MeMYFolk": "MeMYFolk",
+    "MeMyFolk": "MeMyFolk",
     "Enter your Phone Number": "Введите ваш номер телефона",
     "Enter your E-mail": "Введите вашу электронную почту",
     "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.": "Мы отправим вам четырехзначный код подтверждения через SMS или WhatsApp. Пожалуйста, введите этот код для подтверждения вашей личности.",
@@ -270,5 +270,10 @@
     "Birthday, Graduation, Anniversary": "День рождения, Выпускной, Годовщина",
     "Born at Apollo Hospital in Bangalore": "Родился в больнице Аполло в Бангалоре",
     "By signing up, you agree to our Privacy Policy and Terms and Conditions": "Регистрируясь, вы соглашаетесь с нашей Политикой конфиденциальности и Условиями использования.",
-    "If there are mistakes in English words in our app, please let us know via email at": "Если в нашем приложении есть ошибки в русских словах, пожалуйста, сообщите нам по электронной почте."
+    "If there are mistakes in English words in our app, please let us know via email at": "Если в нашем приложении есть ошибки в русских словах, пожалуйста, сообщите нам по электронной почте.",
+    "No data found": "Данные не найдены",
+    "Add to Story": "Добавить в историю",
+    "Are you sure you want to delete your account? This action cannot be undone.": "Вы уверены, что хотите удалить свой аккаунт? Это действие нельзя отменить.",
+    "Please note that deleting your account will permanently erase all your data.": "Обратите внимание, что удаление аккаунта навсегда сотрет все ваши данные.",
+    "I understand and want to delete my account.": "Я понимаю и хочу удалить свой аккаунт."
   }

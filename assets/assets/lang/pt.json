@@ -38,7 +38,7 @@
   "Birth year": "Ano de Nascimento",
   "Male": "Masculino",
   "Female": "Feminino",
-  "Others": "Outros",
+  "Other": "Outros",
   "Select Year": "Selecionar Ano",
   "Camera": "Câmera",
   "Gallery": "Galeria",
@@ -101,7 +101,7 @@
   " family tree.\nAwesome ": "árvore genealógica.\nIncrível!",
   " members ": "membros",
   "Are you sure you want to logout.": "Tem certeza de que deseja sair?",
-  "MeMYFolk": "MeMYFolk",
+  "MeMyFolk": "MeMyFolk",
   "Enter your Phone Number": "Digite seu número de telefone",
   "Enter your E-mail": "Digite seu e-mail",
   "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.": "Enviaremos um código de verificação de quatro dígitos via SMS ou WhatsApp. Insira esse código para verificar sua identidade.",
@@ -270,5 +270,10 @@
   "Birthday, Graduation, Anniversary": "Aniversário, Formatura, Aniversário de Casamento",
   "Born at Apollo Hospital in Bangalore": "Nascido no Hospital Apollo em Bangalore",
   "By signing up, you agree to our Privacy Policy and Terms and Conditions": "Ao se cadastrar, você concorda com nossa Política de Privacidade e Termos e Condições.",
-  "If there are mistakes in English words in our app, please let us know via email at": "Se houver erros nas palavras em português em nosso aplicativo, por favor nos avise por e-mail."
+  "If there are mistakes in English words in our app, please let us know via email at": "Se houver erros nas palavras em português em nosso aplicativo, por favor nos avise por e-mail.",
+  "No data found": "Nenhum dado encontrado",
+  "Add to Story": "Adicionar ao Story",
+  "Are you sure you want to delete your account? This action cannot be undone.": "Tem certeza que deseja excluir sua conta? Esta ação não pode ser desfeita.",
+  "Please note that deleting your account will permanently erase all your data.": "Por favor, note que excluir sua conta apagará permanentemente todos os seus dados.",
+  "I understand and want to delete my account.": "Eu entendo e quero excluir minha conta."
 }

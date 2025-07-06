@@ -1,105 +1,109 @@
 {
-    "languages": [
-      {
-        "language": "English",
-        "language_code": "en",
-        "languageloc": "English"
-      },
-      {
-        "language": "Kannada",
-        "language_code": "ka",
-        "languageloc": "ಕನ್ನಡ"
-      },
-      {
-        "language": "Tamil",
-        "language_code": "ta",
-        "languageloc": "தமிழ்"
-      },
-      {
-        "language": "Hindi",
-        "language_code": "hi",
-        "languageloc": "हिन्दी"
-      },
-      {
-        "language": "Bengali",
-        "language_code": "bn",
-        "languageloc": "বাংলা"
-      },
-      {
-        "language": "Gujarati",
-        "language_code": "gu",
-        "languageloc": "ગુજરાતી"
-      },
-      {
-        "language": "Malayalam",
-        "language_code": "ml",
-        "languageloc": "മലയാളം"
-      },
-      {
-        "language": "Marathi",
-        "language_code": "mr",
-        "languageloc": "मराठी"
-      },
-      {
-        "language": "Oriya",
-        "language_code": "or",
-        "languageloc": "ଓଡ଼ିଆ"
-      },
-      {
-        "language": "Punjabi",
-        "language_code": "pa",
-        "languageloc": "ਪੰਜਾਬੀ"
-      },
-      {
-        "language": "Spanish",
-        "language_code": "es",
-        "languageloc": "Español"
-      },
-      {
-        "language": "Telugu",
-        "language_code": "te",
-        "languageloc": "తెలుగు"
-      },
-      {
-        "language": "Urdu",
-        "language_code": "ur",
-        "languageloc": "اُردُو"
-      },
-      {
-        "language": "Indonesian",
-        "language_code": "id",
-        "languageloc": "Bahasa Indonesia"
-      },
-      {
-        "language": "Italian",
-        "language_code": "it",
-        "languageloc": "Italiano"
-      },
-      {
-        "language": "Portuguese",
-        "language_code": "pt",
-        "languageloc": "Português"
-      },
-      {
-        "language": "Romanian",
-        "language_code": "ro",
-        "languageloc": "Română"
-      },
-      {
-        "language": "Russian",
-        "language_code": "ru",
-        "languageloc": "Русский"
-      },
-      {
-        "language": "Turkish",
-        "language_code": "tr",
-        "languageloc": "Türkçe"
-      },
-      {
-        "language": "French",
-        "language_code": "fr",
-        "languageloc": "Français"
-      }
-    ]
-
-  }
+  "languages": [
+    {
+      "language": "English",
+      "language_code": "en",
+      "languageloc": "English"
+    },
+    {
+      "language": "Hindi",
+      "language_code": "hi",
+      "languageloc": "हिन्दी"
+    },
+    {
+      "language": "Bengali",
+      "language_code": "bn",
+      "languageloc": "বাংলা"
+    },
+    {
+      "language": "Gujarati",
+      "language_code": "gu",
+      "languageloc": "ગુજરાતી"
+    },
+    {
+      "language": "Kannada",
+      "language_code": "kn",
+      "languageloc": "ಕನ್ನಡ"
+    },
+    {
+      "language": "Tamil",
+      "language_code": "ta",
+      "languageloc": "தமிழ்"
+    },
+    {
+      "language": "Telugu",
+      "language_code": "te",
+      "languageloc": "తెలుగు"
+    },
+    {
+      "language": "Malayalam",
+      "language_code": "ml",
+      "languageloc": "മലയാളം"
+    },
+    {
+      "language": "Marathi",
+      "language_code": "mr",
+      "languageloc": "मराठी"
+    },
+    {
+      "language": "Oriya",
+      "language_code": "or",
+      "languageloc": "ଓଡ଼ିଆ"
+    },
+    {
+      "language": "Punjabi",
+      "language_code": "pa",
+      "languageloc": "ਪੰਜਾਬੀ"
+    },
+    {
+      "language": "Urdu",
+      "language_code": "ur",
+      "languageloc": "اُردُو"
+    },
+    {
+      "language": "Spanish",
+      "language_code": "es",
+      "languageloc": "Español"
+    },
+    {
+      "language": "French",
+      "language_code": "fr",
+      "languageloc": "Français"
+    },
+    {
+      "language": "Italian",
+      "language_code": "it",
+      "languageloc": "Italiano"
+    },
+    {
+      "language": "Indonesian",
+      "language_code": "id",
+      "languageloc": "Bahasa Indonesia"
+    },
+    {
+      "language": "Portuguese",
+      "language_code": "pt",
+      "languageloc": "Português"
+    },
+    {
+      "language": "Romanian",
+      "language_code": "ro",
+      "languageloc": "Română"
+    },
+    {
+      "language": "Arabic",
+      "language_code": "ar",
+      "languageloc": "العربية"
+    },
+    {
+      "language": "Turkish",
+      "language_code": "tr",
+      "languageloc": "Türkçe"
+    },
+    {
+      "language": "Russian",
+      "language_code": "ru",
+      "languageloc": "Русский"
+    }
+  ]
+}

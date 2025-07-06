@@ -38,7 +38,7 @@
     "Birth year": "Anno di nascita",
     "Male": "Maschio",
     "Female": "Femmina",
-    "Others": "Altri",
+    "Other": "Altri",
     "Select Year": "Seleziona l'anno",
     "Camera": "Fotocamera",
     "Gallery": "Galleria",
@@ -101,7 +101,7 @@
     " family tree.\nAwesome ": " albero genealogico.\nFantastico! ",
     " members ": " membri ",
     "Are you sure you want to logout.": "Sei sicuro di voler uscire.",
-    "MeMYFolk": "MeMYFolk",
+    "MeMyFolk": "MeMyFolk",
     "Enter your Phone Number": "Inserisci il tuo numero di telefono",
     "Enter your E-mail": "Inserisci la tua email",
     "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.": "Ti invieremo un codice di verifica di quattro cifre via SMS o WhatsApp. Inserisci questo codice per verificare la tua identità.",
@@ -270,5 +270,10 @@
     "Birthday, Graduation, Anniversary": "Compleanno, Laurea, Anniversario",
     "Born at Apollo Hospital in Bangalore": "Nato all'Ospedale Apollo di Bangalore",
       "By signing up, you agree to our Privacy Policy and Terms and Conditions": "Registrandoti, accetti la nostra Informativa sulla Privacy e i Termini e Condizioni.",
-    "If there are mistakes in English words in our app, please let us know via email at": "Se ci sono errori nelle parole italiane nella nostra app, ti preghiamo di comunicarcelo via email."
+    "If there are mistakes in English words in our app, please let us know via email at": "Se ci sono errori nelle parole italiane nella nostra app, ti preghiamo di comunicarcelo via email.",
+    "No data found": "Nessun dato trovato",
+    "Add to Story": "Aggiungi alla Storia",
+    "Are you sure you want to delete your account? This action cannot be undone.": "Sei sicuro di voler eliminare il tuo account? Questa azione non può essere annullata.",
+    "Please note that deleting your account will permanently erase all your data.": "Tieni presente che l'eliminazione del tuo account cancellerà definitivamente tutti i tuoi dati.",
+    "I understand and want to delete my account.": "Ho capito e voglio eliminare il mio account."
   }

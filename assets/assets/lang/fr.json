@@ -38,7 +38,7 @@
   "Birth year": "Année de naissance",
   "Male": "Homme",
   "Female": "Femme",
-  "Others": "Autres",
+  "Other": "Autres",
   "Select Year": "Sélectionnez l'année",
   "Camera": "Appareil photo",
   "Gallery": "Galerie",
@@ -101,7 +101,7 @@
   " family tree.\nAwesome ": " arbre généalogique.\nGénial ! ",
   " members ": " membres ",
   "Are you sure you want to logout.": "Êtes-vous sûr de vouloir vous déconnecter ?",
-  "MeMYFolk": "MeMYFolk",
+  "MeMyFolk": "MeMyFolk",
   "Enter your Phone Number": "Entrez votre numéro de téléphone",
   "Enter your E-mail": "Entrez votre e-mail",
   "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.": "Nous vous enverrons un code de vérification à quatre chiffres par SMS ou WhatsApp. Veuillez entrer ce code pour vérifier votre identité.",
@@ -268,5 +268,10 @@
   "Adopted": "Adopté",
   "Divorced": "Divorcé",
   "By signing up, you agree to our Privacy Policy and Terms and Conditions": "En vous inscrivant, vous acceptez notre Politique de Confidentialité et nos Conditions Générales.",
-  "If there are mistakes in English words in our app, please let us know via email at": "Si vous trouvez des erreurs dans les mots français de notre application, veuillez nous en informer par e-mail."
+  "If there are mistakes in English words in our app, please let us know via email at": "Si vous trouvez des erreurs dans les mots français de notre application, veuillez nous en informer par e-mail.",
+  "No data found": "Aucune donnée trouvée",
+  "Add to Story": "Ajouter à la Story",
+  "Are you sure you want to delete your account? This action cannot be undone.": "Êtes-vous sûr de vouloir supprimer votre compte ? Cette action est irréversible.",
+  "Please note that deleting your account will permanently erase all your data.": "Veuillez noter que la suppression de votre compte effacera définitivement toutes vos données.",
+  "I understand and want to delete my account.": "Je comprends et souhaite supprimer mon compte."
 }

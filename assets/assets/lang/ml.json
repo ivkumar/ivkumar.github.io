@@ -38,7 +38,7 @@
   "Birth year": "ജനന വർഷം",
   "Male": "പുരുഷൻ",
   "Female": "സ്ത്രീ",
-  "Others": "മറ്റുള്ളവർ",
+  "Other": "മറ്റുള്ളവർ",
   "Select Year": "വർഷം തിരഞ്ഞെടുക്കുക",
   "Camera": "ക്യാമറ",
   "Gallery": "ഗാലറി",
@@ -105,7 +105,7 @@
   "family tree.\nAwesome":"കുടുംബ വൃക്ഷം.\nഅടുത്തെരം!",
   "members":"അംഗങ്ങൾ",
   "Are you sure you want to logout.":"താങ്കൾക്ക് ഉറപ്പാണോ ലോഗൗട്ട് ചെയ്യണമെന്ന്?",
-  "MeMYFolk":"MeMYFolk",
+  "MeMyFolk":"MeMyFolk",
   "Enter your Phone Number":"നിങ്ങളുടെ ഫോൺ നമ്പർ നൽകുക",
   "Enter your E-mail":"നിങ്ങളുടെ ഇമെയിൽ നൽകുക",
   "We will send you a four digit verification code via SMS OR WhatsApp. Please enter this code to verify your identity.":"ഞങ്ങൾ നിങ്ങൾക്ക് SMS അല്ലെങ്കിൽ WhatsApp വഴി നാലക്കം ഉള്ള ഒരു സാക്ഷ്യപ്പെടുത്തൽ കോഡ് അയക്കും. നിങ്ങളുടെ തിരിച്ചറിയൽ പരിശോധിക്കാൻ ഈ കോഡ് നൽകുക.",
@@ -274,5 +274,10 @@
   "Birthday, Graduation, Anniversary": "പിറന്നാൾ, ബിരുദം, വാർഷികം",
   "Born at Apollo Hospital in Bangalore": "ബെംഗളൂരുവിലെ അപ്പോളോ ആശുപത്രിയിൽ ജനിച്ച",
   "By signing up, you agree to our Privacy Policy and Terms and Conditions": "സൈൻ അപ്പ് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾ ഞങ്ങളുടെ സ്വകാര്യതാ നയവും നിബന്ധനകളും വ്യവസ്ഥകളും അംഗീകരിക്കുന്നു.",
-  "If there are mistakes in English words in our app, please let us know via email at": "ഞങ്ങളുടെ ആപ്പിൽ മലയാളം വാക്കുകളിൽ തെറ്റുകൾ ഉണ്ടെങ്കിൽ, ദയവായി ഞങ്ങളെ ഇമെയിൽ വഴി അറിയിക്കുക."
+  "If there are mistakes in English words in our app, please let us know via email at": "ഞങ്ങളുടെ ആപ്പിൽ മലയാളം വാക്കുകളിൽ തെറ്റുകൾ ഉണ്ടെങ്കിൽ, ദയവായി ഞങ്ങളെ ഇമെയിൽ വഴി അറിയിക്കുക.",
+  "No data found": "ഡാറ്റ കണ്ടെത്തിയില്ല",
+  "Add to Story": "സ്റ്റോറിയിലേക്ക് ചേർക്കുക",
+  "Are you sure you want to delete your account? This action cannot be undone.": "നിങ്ങളുടെ അക്കൗണ്ട് ഇല്ലാതാക്കണമെന്ന് തീരുമാനിച്ചിരിക്കുന്നുവോ? ഈ പ്രവർത്തനം തിരിച്ചെടുക്കാനാവില്ല.",
+  "Please note that deleting your account will permanently erase all your data.": "ദയവായി ശ്രദ്ധിക്കുക: അക്കൗണ്ട് ഇല്ലാതാക്കുന്നത് നിങ്ങളുടെ എല്ലാ ഡാറ്റയും സ്ഥിരമായി മായ്ച്ച് കളയും.",
+  "I understand and want to delete my account.": "എനിക്ക് മനസ്സിലായി, എന്റെ അക്കൗണ്ട് ഇല്ലാതാക്കണം."
 }
