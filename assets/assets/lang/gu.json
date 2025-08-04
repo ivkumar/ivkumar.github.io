@@ -278,6 +278,25 @@
   "Add to Story": "સ્ટોરીમાં ઉમેરો",
   "Are you sure you want to delete your account? This action cannot be undone.": "શું તમે ખરેખર તમારું એકાઉન્ટ ડિલીટ કરવા માંગો છો? આ ક્રિયા પૂર્વવત્ કરી શકાશે નહીં.",
   "Please note that deleting your account will permanently erase all your data.": "મહેરબાની કરીને નોંધ કરો કે તમારું એકાઉન્ટ ડિલીટ કરવાથી તમારો બધો ડેટા કાયમી રીતે દૂર થઈ જશે.",
-  "I understand and want to delete my account.": "હું સમજું છું અને મારું એકાઉન્ટ ડિલીટ કરવા માંગું છું."
+  "I understand and want to delete my account.": "હું સમજું છું અને મારું એકાઉન્ટ ડિલીટ કરવા માંગું છું.",
+  "Parents": "માતા-પિતા",
+  "Siblings": "ભાઈ-બહેન",
+  "Add": "ઉમેરો",
+  "Add Name": "નામ ઉમેરો",
+  "Children": "બાળકો",
+  "Enter Child name": "બાળકનું નામ દાખલ કરો",
+  "Enter Sibiling name": "ભાઈ અથવા બહેનનું નામ દાખલ કરો",
+  "husband": "પતિ",
+  "wife": "પત્ની",
+  "father": "પિતા",
+  "mother": "માતા",
+  "son": "પુત્ર",
+  "brother": "ભાઈ",
+  "daughter": "પુત્રી",
+  "Sibling": "ભાઈ અથવા બહેન",
+  "sister": "બહેન",
+  "No new members were added": "કોઈ નવા સભ્ય ઉમેરવામાં આવ્યા નથી",
+  "There are no members added. Please add them first": "કોઈ સભ્ય ઉમેર્યા નથી. મહેરબાની કરીને પહેલા તેમને ઉમેરો",
+  "There are no parents. Please add them first": "કોઈ માતા-પિતા ઉમેરવામાં આવ્યા નથી. કૃપા કરીને પહેલા તેમને ઉમેરો"
 
 }

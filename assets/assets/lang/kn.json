@@ -277,6 +277,25 @@
   "Add to Story": "ಸ್ಟೋರಿಗೆ ಸೇರಿಸಿ",
   "Are you sure you want to delete your account? This action cannot be undone.": "ನೀವು ನಿಜವಾಗಿಯೂ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ? ಈ ಕ್ರಿಯೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗುವುದಿಲ್ಲ.",
   "Please note that deleting your account will permanently erase all your data.": "ದಯವಿಟ್ಟು ಗಮನಿಸಿ: ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಅಳಿಸುವುದರಿಂದ ನಿಮ್ಮ ಎಲ್ಲಾ ಡೇಟಾ ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಿಹೋಗುತ್ತದೆ.",
-  "I understand and want to delete my account.": "ನಾನು ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದೇನೆ ಮತ್ತು ನನ್ನ ಖಾತೆಯನ್ನು ಅಳಿಸಲು ಬಯಸುತ್ತೇನೆ."
+  "I understand and want to delete my account.": "ನಾನು ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದೇನೆ ಮತ್ತು ನನ್ನ ಖಾತೆಯನ್ನು ಅಳಿಸಲು ಬಯಸುತ್ತೇನೆ.",
+  "Parents": "ತಂದೆ-ತಾಯಿ",
+  "Siblings": "ಸಹೋದರರು",
+  "Add": "ಸೇರಿಸಿ",
+  "Add Name": "ಹೆಸರು ಸೇರಿಸಿ",
+  "Children": "ಮಕ್ಕಳು",
+  "Enter Child name": "ಮಗುವಿನ ಹೆಸರನ್ನು ನಮೂದಿಸಿ",
+  "Enter Sibiling name": "ಸಹೋದರರ ಹೆಸರು ನಮೂದಿಸಿ",
+  "husband": "ಗಂಡ",
+  "wife": "ಹೆಂಡತಿ",
+  "father": "ತಂದೆ",
+  "mother": "ತಾಯಿ",
+  "son": "ಮಗ",
+  "brother": "ಸಹೋದರ",
+  "daughter": "ಮಗಳು",
+  "Sibling": "ಸಹೋದರ ಅಥವಾ ಸಹೋದರಿ",
+  "sister": "ಸಹೋದರಿ",
+  "No new members were added": "ಹೆಚ್ಚುವರಿ ಸದಸ್ಯರನ್ನು ಸೇರಿಸಲಾಗಿಲ್ಲ",
+  "There are no members added. Please add them first": "ಯಾವುದೇ ಸದಸ್ಯರನ್ನು ಸೇರಿಸಲಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ಮೊದಲು ಅವರನ್ನು ಸೇರಿಸಿ",
+  "There are no parents. Please add them first": "ತಂದೆ-ತಾಯಿಗಳನ್ನು ಸೇರಿಸಲಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ಮೊದಲು ಅವರನ್ನು ಸೇರಿಸಿ"
 }
 

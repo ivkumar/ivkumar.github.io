@@ -272,6 +272,25 @@
   "Add to Story": "Add to Story",
   "Are you sure you want to delete your account? This action cannot be undone.": "Are you sure you want to delete your account? This action cannot be undone.",
   "Please note that deleting your account will permanently erase all your data.": "Please note that deleting your account will permanently erase all your data.",
-  "I understand and want to delete my account.": "I understand and want to delete my account."
+  "I understand and want to delete my account.": "I understand and want to delete my account.",
+  "Parents": "Parents",
+  "Siblings": "Siblings",
+  "Add": "Add",
+  "Add Name": "Add Name",
+  "Children": "Children",
+  "Enter Child name": "Enter child name",
+  "Enter Sibiling name": "Enter sibling name",
+  "husband": "Husband",
+  "wife": "Wife",
+  "father": "Father",
+  "mother": "Mother",
+  "son": "Son",
+  "brother": "Brother",
+  "daughter": "Daughter",
+  "Sibling": "Sibling",
+  "sister": "Sister",
+  "No new members were added": "No new members were added",
+  "There are no members added. Please add them first": "There are no members added. Please add them first",
+  "There are no parents. Please add them first": "There are no parents. Please add them first"
   
 }

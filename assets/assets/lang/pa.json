@@ -279,6 +279,25 @@
   "Add to Story": "ਸਟੋਰੀ ਵਿੱਚ ਜੋੜੋ",
   "Are you sure you want to delete your account? This action cannot be undone.": "ਕੀ ਤੁਸੀਂ ਨਿਸ਼ਚਤ ਤੌਰ 'ਤੇ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।",
   "Please note that deleting your account will permanently erase all your data.": "ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਦਿਓ ਕਿ ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਮਿਟਾਉਣ ਨਾਲ ਤੁਹਾਡਾ ਸਾਰਾ ਡੇਟਾ ਸਥਾਈ ਰੂਪ ਨਾਲ ਮਿਟ ਜਾਵੇਗਾ।",
-  "I understand and want to delete my account.": "ਮੈਂ ਸਮਝਦਾ ਹਾਂ ਅਤੇ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦਾ ਹਾਂ।"
+  "I understand and want to delete my account.": "ਮੈਂ ਸਮਝਦਾ ਹਾਂ ਅਤੇ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦਾ ਹਾਂ।",
+  "Parents": "ਮਾਤਾ-ਪਿਤਾ",
+  "Siblings": "ਭੈਣ-ਭਰਾ",
+  "Add": "ਸ਼ਾਮਲ ਕਰੋ",
+  "Add Name": "ਨਾਮ ਸ਼ਾਮਲ ਕਰੋ",
+  "Children": "ਬੱਚੇ",
+  "Enter Child name": "ਬੱਚੇ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ",
+  "Enter Sibiling name": "ਭੈਣ ਜਾਂ ਭਰਾ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ",
+  "husband": "ਪਤੀ",
+  "wife": "ਪਤਨੀ",
+  "father": "ਪਿਤਾ",
+  "mother": "ਮਾਤਾ",
+  "son": "ਪੁੱਤਰ",
+  "brother": "ਭਰਾ",
+  "daughter": "ਧੀ",
+  "Sibling": "ਭੈਣ ਜਾਂ ਭਰਾ",
+  "sister": "ਭੈਣ",
+  "No new members were added": "ਕੋਈ ਨਵੇਂ ਮੈਂਬਰ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੇ ਗਏ",
+  "There are no members added. Please add them first": "ਕੋਈ ਮੈਂਬਰ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੇ ਗਏ। ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਉਹਨਾਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ",
+  "There are no parents. Please add them first": "ਕੋਈ ਮਾਤਾ-ਪਿਤਾ ਨਹੀਂ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਉਹਨਾਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ"
 
 }

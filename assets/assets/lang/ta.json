@@ -283,5 +283,26 @@
   "Add to Story":"கதையில் சேர்",
   "Are you sure you want to delete your account? This action cannot be undone.":"நீங்கள் உங்கள் கணக்கை நீக்க விரும்புகிறீர்களா? இந்த செயல் திரும்ப முடியாது.",
   "Please note that deleting your account will permanently erase all your data.":"தயவுசெய்து கவனிக்கவும், உங்கள் கணக்கை நீக்குவதன் மூலம் உங்கள் அனைத்து தரவுகளும் நிரந்தரமாக நீக்கப்படும்.",
-  "I understand and want to delete my account.":"நான் புரிந்துகொள்கிறேன் மற்றும் என் கணக்கை நீக்க விரும்புகிறேன்."
+  "I understand and want to delete my account.":"நான் புரிந்துகொள்கிறேன் மற்றும் என் கணக்கை நீக்க விரும்புகிறேன்.",
+  "Parents": "பெற்றோர்",
+  "Siblings": "உடன்பிறப்புகள்",
+  "Add": "சேர்",
+  "Add Name": "பெயரை சேர்",
+  "Children": "குழந்தைகள்",
+  "Enter Child name": "குழந்தையின் பெயரை உள்ளிடவும்",
+  "Enter Sibiling name" : "உடன்பிறப்புகள் பெயரை உள்ளிடவும்",
+  "husband":"கணவன்",
+  "wife":"மனைவி",
+  "father":"அப்பா",
+  "mother":"தாய்",
+  "son":"மகன்",
+  "brother":"சகோதரன்",
+  "daughter":"மகள்",
+  "Sibling":"உடன்பிறப்பு",
+  "sister":"சகோதரி",
+  "No new members were added": "புதிய உறுப்பினர்கள் சேர்க்கப்படவில்லை",
+  
+  "There are no members added. Please add them first": "உறுப்பினர்கள் சேர்க்கப்படவில்லை. முதலில் அவர்களைச் சேர்க்கவும்",
+  "There are no parents. Please add them first": "பெற்றோர் எவரும் இல்லை. முதலில் அவர்களைச் சேர்க்கவும்"
+  
 }

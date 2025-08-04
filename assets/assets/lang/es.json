@@ -272,6 +272,25 @@
   "Add to Story": "Añadir a Historia",
   "Are you sure you want to delete your account? This action cannot be undone.": "¿Estás seguro de que quieres eliminar tu cuenta? Esta acción no se puede deshacer.",
   "Please note that deleting your account will permanently erase all your data.": "Ten en cuenta que eliminar tu cuenta borrará permanentemente todos tus datos.",
-  "I understand and want to delete my account.": "Entiendo y quiero eliminar mi cuenta."
+  "I understand and want to delete my account.": "Entiendo y quiero eliminar mi cuenta.",
+  "Parents": "Padres",
+  "Siblings": "Hermanos",
+  "Add": "Agregar",
+  "Add Name": "Agregar nombre",
+  "Children": "Niños",
+  "Enter Child name": "Ingrese el nombre del niño",
+  "Enter Sibiling name": "Ingrese el nombre del hermano o hermana",
+  "husband": "Esposo",
+  "wife": "Esposa",
+  "father": "Padre",
+  "mother": "Madre",
+  "son": "Hijo",
+  "brother": "Hermano",
+  "daughter": "Hija",
+  "Sibling": "Hermano o hermana",
+  "sister": "Hermana",
+  "No new members were added": "No se añadieron nuevos miembros",
+  "There are no members added. Please add them first": "No se han añadido miembros. Por favor, añádelos primero",
+  "There are no parents. Please add them first": "No se han añadido padres. Por favor, añádelos primero"
 
 }

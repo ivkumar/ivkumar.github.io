@@ -275,5 +275,25 @@
     "Add to Story": "Добавить в историю",
     "Are you sure you want to delete your account? This action cannot be undone.": "Вы уверены, что хотите удалить свой аккаунт? Это действие нельзя отменить.",
     "Please note that deleting your account will permanently erase all your data.": "Обратите внимание, что удаление аккаунта навсегда сотрет все ваши данные.",
-    "I understand and want to delete my account.": "Я понимаю и хочу удалить свой аккаунт."
+    "I understand and want to delete my account.": "Я понимаю и хочу удалить свой аккаунт.",
+    "Parents": "Родители",
+  "Siblings": "Братья и сёстры",
+  "Add": "Добавить",
+  "Add Name": "Добавить имя",
+  "Children": "Дети",
+  "Enter Child name": "Введите имя ребёнка",
+  "Enter Sibiling name": "Введите имя брата или сестры",
+  "husband": "Муж",
+  "wife": "Жена",
+  "father": "Отец",
+  "mother": "Мать",
+  "son": "Сын",
+  "brother": "Брат",
+  "daughter": "Дочь",
+  "Sibling": "Брат или сестра",
+  "sister": "Сестра",
+  "No new members were added": "Новые участники не были добавлены",
+  "There are no members added. Please add them first": "Участники не добавлены. Пожалуйста, добавьте их сначала",
+  "There are no parents. Please add them first": "Родители не добавлены. Пожалуйста, добавьте их сначала"
+    
   }

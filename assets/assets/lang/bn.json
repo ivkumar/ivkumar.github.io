@@ -183,7 +183,26 @@
   "Add to Story": "স্টোরিতে যোগ করুন",
   "Are you sure you want to delete your account? This action cannot be undone.": "আপনি কি নিশ্চিত যে আপনি আপনার অ্যাকাউন্ট মুছে ফেলতে চান? এই ক্রিয়াটি পূর্বাবস্থায় ফেরানো যাবে না।",
   "Please note that deleting your account will permanently erase all your data.": "দয়া করে মনে রাখবেন যে অ্যাকাউন্ট মুছে ফেললে আপনার সমস্ত ডেটা স্থায়ীভাবে মুছে যাবে।",
-  "I understand and want to delete my account.": "আমি বুঝতে পেরেছি এবং আমার অ্যাকাউন্ট মুছে ফেলতে চাই।"
+  "I understand and want to delete my account.": "আমি বুঝতে পেরেছি এবং আমার অ্যাকাউন্ট মুছে ফেলতে চাই।",
+  "Parents": "অভিভাবক",
+  "Siblings": "ভাই-বোন",
+  "Add": "যোগ করুন",
+  "Add Name": "নাম যোগ করুন",
+  "Children": "সন্তানরা",
+  "Enter Child name": "সন্তানের নাম লিখুন",
+  "Enter Sibiling name": "ভাই বা বোনের নাম লিখুন",
+  "husband": "স্বামী",
+  "wife": "স্ত্রী",
+  "father": "পিতা",
+  "mother": "মাতা",
+  "son": "পুত্র",
+  "brother": "ভাই",
+  "daughter": "কন্যা",
+  "Sibling": "ভাই বা বোন",
+  "sister": "বোন",
+  "No new members were added": "কোনো নতুন সদস্য যোগ করা হয়নি",
+  "There are no members added. Please add them first": "কোনো সদস্য যোগ করা হয়নি। অনুগ্রহ করে প্রথমে তাদের যোগ করুন",
+  "There are no parents. Please add them first": "কোনো অভিভাবক নেই। অনুগ্রহ করে প্রথমে তাদের যোগ করুন"
 
 }
 
