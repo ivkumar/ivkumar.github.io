@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gainedgeapp",
+      "sha256_cert_fingerprints": ["71:55:BB:2B:CA:41:BD:28:57:5B:8A:8E:F5:B9:EB:A9:24:B2:0E:88:E2:FC:5E:01:2B:00:6E:3E:C0:CE:36:2D"]
+    }
+  }
+]
