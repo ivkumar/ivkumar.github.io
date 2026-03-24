@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.gainedgeapp",
-      "sha256_cert_fingerprints": ["3C:E6:58:64:05:6A:3B:39:4A:6D:F0:06:CB:20:F5:0C:37:47:D7:C3:8B:DB:CA:59:EB:80:03:A2:F5:B4:19:B1"]
+      "sha256_cert_fingerprints": ["3C:E6:58:64:05:6A:3B:39:4A:6D:F0:06:CB:20:F5:0C:37:47:D7:C3:8B:DB:CA:59:EB:80:03:A2:F5:B4:19:B1","71:55:BB:2B:CA:41:BD:28:57:5B:8A:8E:F5:B9:EB:A9:24:B2:0E:88:E2:FC:5E:01:2B:00:6E:3E:C0:CE:36:2D"]
     }
   }
 ]
