@@ -5,13 +5,6 @@
       "namespace": "android_app",
       "package_name": "com.gainedgeapp",
       "sha256_cert_fingerprints": ["3C:E6:58:64:05:6A:3B:39:4A:6D:F0:06:CB:20:F5:0C:37:47:D7:C3:8B:DB:CA:59:EB:80:03:A2:F5:B4:19:B1"]
-    },
-    "relation_extensions": {
-      "delegate_permission/common.handle_all_urls": {
-        "dynamic_app_link_components": [
-          {"/": "/match/*"}
-        ]
-      }
     }
   }
 ]
