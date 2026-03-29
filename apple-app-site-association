@@ -3,8 +3,19 @@
     "details": [{
       "appIDs": ["8R3KMN4SFN.com.gainedgeapp"],
       "components": [
-        { "/": "/match*" },
-        { "/": "/*" }
+        {
+          "/": "/match",
+          "?": { "matchId": "?*" },
+          "comment": "Match any /match URL with a matchId query param"
+        },
+        {
+          "/": "/match*",
+          "comment": "Match any /match path"
+        },
+        {
+          "/": "/",
+          "comment": "Root path"
+        }
       ]
     }]
   }
