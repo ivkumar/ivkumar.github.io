@@ -1,11 +1,11 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "YOUR_TEAM_ID.com.gainedgeapp",
-        "paths": ["/match*"]
-      }
-    ]
+    "details": [{
+      "appIDs": ["8R3KMN4SFN.com.gainedgeapp"],
+      "components": [
+        { "/": "/match*" },
+        { "/": "/*" }
+      ]
+    }]
   }
 }
