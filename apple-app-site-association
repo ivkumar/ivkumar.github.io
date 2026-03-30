@@ -4,12 +4,7 @@
     "details": [
       {
         "appIDs": ["8R3KMN4SFN.com.gainedgeapp"],
-        "components": [
-          {
-            "/": "/*",
-            "comment": "Matches all paths"
-          }
-        ]
+        "paths": ["*"]
       }
     ]
   }
