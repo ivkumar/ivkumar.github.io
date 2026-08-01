@@ -1,0 +1,130 @@
+{
+  "languages": [
+    {
+      "language": "English",
+      "language_code": "en",
+      "languageloc": "English",
+      "locale_id": "en-US"
+    },
+    {
+      "language": "Hindi",
+      "language_code": "hi",
+      "languageloc": "हिन्दी",
+      "locale_id": "hi-IN"
+    },
+    {
+      "language": "Bengali",
+      "language_code": "bn",
+      "languageloc": "বাংলা",
+      "locale_id": "bn-IN"
+    },
+    {
+      "language": "Gujarati",
+      "language_code": "gu",
+      "languageloc": "ગુજરાતી",
+      "locale_id": "gu-IN"
+    },
+    {
+      "language": "Kannada",
+      "language_code": "kn",
+      "languageloc": "ಕನ್ನಡ",
+      "locale_id": "kn-IN"
+    },
+    {
+      "language": "Tamil",
+      "language_code": "ta",
+      "languageloc": "தமிழ்",
+      "locale_id": "ta-IN"
+    },
+    {
+      "language": "Telugu",
+      "language_code": "te",
+      "languageloc": "తెలుగు",
+      "locale_id": "te-IN"
+    },
+    {
+      "language": "Malayalam",
+      "language_code": "ml",
+      "languageloc": "മലയാളം",
+      "locale_id": "ml-IN"
+    },
+    {
+      "language": "Marathi",
+      "language_code": "mr",
+      "languageloc": "मराठी",
+      "locale_id": "mr-IN"
+    },
+    {
+      "language": "Oriya",
+      "language_code": "or",
+      "languageloc": "ଓଡ଼ିଆ",
+      "locale_id": "or-IN"
+    },
+    {
+      "language": "Punjabi",
+      "language_code": "pa",
+      "languageloc": "ਪੰਜਾਬੀ",
+      "locale_id": "pa-IN"
+    },
+    {
+      "language": "Urdu",
+      "language_code": "ur",
+      "languageloc": "اُردُو",
+      "locale_id": "ur-PK"
+    },
+    {
+      "language": "Spanish",
+      "language_code": "es",
+      "languageloc": "Español",
+      "locale_id": "es-ES"
+    },
+    {
+      "language": "French",
+      "language_code": "fr",
+      "languageloc": "Français",
+      "locale_id": "fr-FR"
+    },
+    {
+      "language": "Italian",
+      "language_code": "it",
+      "languageloc": "Italiano",
+      "locale_id": "it-IT"
+    },
+    {
+      "language": "Indonesian",
+      "language_code": "id",
+      "languageloc": "Bahasa Indonesia",
+      "locale_id": "id-ID"
+    },
+    {
+      "language": "Portuguese",
+      "language_code": "pt",
+      "languageloc": "Português",
+      "locale_id": "pt-BR"
+    },
+    {
+      "language": "Romanian",
+      "language_code": "ro",
+      "languageloc": "Română",
+      "locale_id": "ro-RO"
+    },
+    {
+      "language": "Arabic",
+      "language_code": "ar",
+      "languageloc": "العربية",
+      "locale_id": "ar-EG"
+    },
+    {
+      "language": "Turkish",
+      "language_code": "tr",
+      "languageloc": "Türkçe",
+      "locale_id": "tr-TR"
+    },
+    {
+      "language": "Russian",
+      "language_code": "ru",
+      "languageloc": "Русский",
+      "locale_id": "ru-RU"
+    }
+  ]
+}
